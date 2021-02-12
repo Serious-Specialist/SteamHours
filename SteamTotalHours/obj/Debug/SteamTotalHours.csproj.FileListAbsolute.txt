@@ -1,0 +1,7 @@
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\bin\Debug\SteamTotalHours.exe.config
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\bin\Debug\SteamTotalHours.exe
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\bin\Debug\SteamTotalHours.pdb
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\obj\Debug\SteamTotalHours.csprojAssemblyReference.cache
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\obj\Debug\SteamTotalHours.csproj.CoreCompileInputs.cache
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\obj\Debug\SteamTotalHours.exe
+C:\Projects\__NET\SteamTotalHours\SteamTotalHours\obj\Debug\SteamTotalHours.pdb
